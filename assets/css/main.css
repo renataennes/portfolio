@@ -2283,6 +2283,12 @@ width: 50%;
   width: auto;
   object-fit: contain;
 }
+/* Reduz imagem do banner */
+#banner .image img {
+  max-height: 320px;
+  width: auto;
+}
+
 
 
 
