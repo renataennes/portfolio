@@ -2187,7 +2187,7 @@ width: 50%;
         max-height: 50vh;
         min-height: 18em;
         width: 100%; } }
-  @media screen and (orientation: portrait) and (max-width: 220px) {
+  @media screen and (orientation: portrait) and (max-width: 150px) {
     #banner .image {
       max-height: 35vh; } }
 
@@ -2283,6 +2283,7 @@ width: 50%;
   width: auto;
   object-fit: contain;
 }
+
 
 
 
