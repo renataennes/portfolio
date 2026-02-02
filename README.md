@@ -21,3 +21,4 @@ Abaixo, alguns dos projetos que você encontrará detalhados no meu site:
 * **Insights House Rocket:** Painel gerencial desenvolvido com Streamlit para otimização de compra e venda de imóveis.
 * **Previsão de Custos de Saúde:** Modelo de Machine Learning para estimar custos hospitalares com base em perfis de usuários (fumantes vs. não fumantes).
 * **Fintech Data Insights:** Análise transacional profunda utilizando SQL e Python para monitoramento de saúde financeira.
+* **Autism Spectrum Disorder (ASD) Prediction:** Análise exploratória de dados e a predição de Transtorno do Espectro Autista (ASD) utilizando técnicas de Machine Learning em Python.
