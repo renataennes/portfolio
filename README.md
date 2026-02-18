@@ -1,24 +1,30 @@
-# Portfólio de Análise e Ciência de Dados 📊
+# Data Analysis & Data Science Portfolio 📊
 
-Bem-vindo(a) ao repositório do meu portfólio pessoal. Aqui, apresento meus principais projetos, habilidades e experiências na área de dados, demonstrando como utilizo a tecnologia para extrair insights estratégicos e resolver problemas de negócio.
+Welcome to my personal portfolio repository. Here, I showcase my main projects, skills, and professional experience in data — demonstrating how I leverage technology to extract strategic insights and solve real business problems in distributed, remote-first environments.
 
-🌐 **Acesse o site:** [https://renataennes.github.io/portfolio/]
+🌐 **Visit the website:** [https://renataennes.github.io/portfolio/]
 
 ---
 
-## 🚀 Sobre Mim
-Sou Analista de Dados com pouco mais de 2 anos de experiência, focada na construção de soluções de ponta a ponta. Meu trabalho envolve desde a extração e limpeza de dados (**ETL**) até a criação de modelos preditivos e dashboards para suporte à decisão. Sou detalhista e apaixonada por investigar padrões ocultos em grandes volumes de dados.
+## 🚀 About Me
+I'm a Data Analyst with over 3 years of experience building end-to-end data solutions. My work spans the full data lifecycle — from data extraction and cleaning (**ETL**) to predictive modeling and executive dashboard development for decision support.
 
-## 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Python (Pandas, NumPy, Scikit-Learn), SQL (Google BigQuery).
-* **Visualização:** Power BI, Looker Studio, Streamlit.
-* **Bancos de Dados:** PostgreSQL, MySQL, BigQuery.
-* **Outros:** Git, GitHub, VS Code, Estatística Descritiva e Inferencial.
+I have experience collaborating in fully remote environments, where clear communication, autonomy, and ownership are essential. I am detail-oriented and passionate about uncovering hidden patterns in large datasets, transforming complexity into clarity, and enabling data-driven decision-making at scale.
 
-## 📁 Destaques do Portfólio
-Abaixo, alguns dos projetos que você encontrará detalhados no meu site:
+---
 
-* **Insights House Rocket:** Painel gerencial desenvolvido com Streamlit para otimização de compra e venda de imóveis.
-* **Previsão de Custos de Saúde:** Modelo de Machine Learning para estimar custos hospitalares com base em perfis de usuários (fumantes vs. não fumantes).
-* **Fintech Data Insights:** Análise transacional profunda utilizando SQL e Python para monitoramento de saúde financeira.
-* **Autism Spectrum Disorder (ASD) Prediction:** Análise exploratória de dados e a predição de Transtorno do Espectro Autista (ASD) utilizando técnicas de Machine Learning em Python.
+## 🛠️ Technologies & Tools
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL (Google BigQuery).
+* **Data Visualization:** Power BI, Looker Studio, Streamlit.
+* **Databases:** PostgreSQL, MySQL, BigQuery.
+* **Other Tools:** Git, GitHub, VS Code, Descriptive and Inferential Statistics.
+
+---
+
+## 📁 Portfolio Highlights
+Below are some of the projects you will find detailed on my website:
+
+* **Insights House Rocket:** Management dashboard built with Streamlit to optimize real estate buying and selling decisions through data-driven insights.
+* **Health Cost Prediction:** Machine Learning model developed to estimate hospital costs based on user behavioral profiles (smokers vs. non-smokers).
+* **Fintech Data Insights:** In-depth transactional data analysis using SQL and Python to monitor financial health and identify behavioral patterns.
+* **Autism Spectrum Disorder (ASD) Prediction:** Machine Learning project focused on identifying potential ASD indicators using clinical and behavioral data, including exploratory analysis, feature engineering, and model evaluation.
